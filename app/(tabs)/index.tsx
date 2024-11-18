@@ -20,7 +20,7 @@ function HomeScreen({ navigation }: { navigation: any }) {
         />
         <View style={styles.promoText}>
           <Text>Coxinha</Text>
-          <Text>Preço: R$10,00</Text>
+          <Text>Preço: R$15,00</Text>
         </View>
       </View>
 
